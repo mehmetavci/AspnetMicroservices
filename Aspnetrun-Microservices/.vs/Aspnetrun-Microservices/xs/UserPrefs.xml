@@ -1,3 +1,18 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{9673C1C4-3AC4-4B18-80F8-3DBE5FD3AD0F}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Services.Catalog.Catalog.API FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aspnetrun-Microservices" expanded="True">
+            <Node name="Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
 </Properties>
