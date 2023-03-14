@@ -1,18 +1,29 @@
 ﻿<Properties StartupConfiguration="{9673C1C4-3AC4-4B18-80F8-3DBE5FD3AD0F}|http">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Services.Catalog.Catalog.API FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.Services.Catalog.Catalog.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/Catalog/Catalog.API/Program.cs">
+    <Files>
+      <File FileName="Services/Catalog/Catalog.API/Program.cs" Line="16" Column="24" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Aspnetrun-Microservices" expanded="True">
-            <Node name="Services" expanded="True" />
+          <Node name="Aspnetrun-Microservices" expanded="True" selected="True">
+            <Node name="Services" expanded="True">
+              <Node name="Catalog" expanded="True">
+                <Node name="Catalog.API" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
